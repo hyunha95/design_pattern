@@ -1,5 +1,3 @@
-package pattern.observer;
-
 public interface DisplayElement {
-    public void display();
+	public void display();
 }
